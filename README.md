@@ -40,3 +40,6 @@ pip install -r requirements.txt
 ``
 * Executar *executar_testes.bat*
 * O arquivo de resultados estará na mesma pasta, com o nome *report.html*
+
+### Vídeo de entrega
+* [Link de Acesso](https://www.loom.com/share/815e063c2d894a61a4308b5e2a018622 "Link de Acesso")
